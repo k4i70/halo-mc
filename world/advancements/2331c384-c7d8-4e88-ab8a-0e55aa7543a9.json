@@ -1,0 +1,112 @@
+{
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2022-05-02 03:33:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-05-02 03:30:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-05-02 03:34:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-02 03:34:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-05-02 03:34:51 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2022-05-02 03:30:42 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-05-02 03:30:42 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2022-05-02 03:30:42 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-05-02 03:30:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2022-05-02 03:33:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-05-02 03:34:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-02 03:34:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2022-05-02 03:34:14 +0100"
+    },
+    "done": false
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-05-02 03:30:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2022-05-02 03:33:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-05-02 03:34:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-05-02 03:34:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2022-05-02 03:30:42 +0100",
+      "minecraft:stony_shore": "2022-05-02 03:33:35 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
