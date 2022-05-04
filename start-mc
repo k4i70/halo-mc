@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 git pull
 java -Xmx1024M -Xms1024M -jar launcher.jar nogui
 git commit -m "this commit"
