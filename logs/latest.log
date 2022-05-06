@@ -1,111 +1,69 @@
-[22:22:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:23:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:23:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:23:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:23:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:23:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:23:01] [Worker-Main-17/INFO]: Loaded 7 recipes
-[22:23:01] [Worker-Main-17/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[22:23:01] [Worker-Main-17/INFO]: Loaded 1149 advancements
-[22:23:02] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[22:23:02] [Server thread/INFO]: Loading properties
-[22:23:02] [Server thread/INFO]: Default game type: SURVIVAL
-[22:23:02] [Server thread/INFO]: Generating keypair
-[22:23:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:23:02] [Server thread/INFO]: Using epoll channel type
-[22:23:03] [Server thread/INFO]: Preparing level "world"
-[22:23:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:23:04] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[22:23:04] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[22:23:04] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[22:23:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[22:23:05] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[22:23:05] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[22:23:06] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[22:23:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[22:23:07] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[22:23:07] [Worker-Main-19/INFO]: Preparing spawn area: 4%
-[22:23:08] [Worker-Main-19/INFO]: Preparing spawn area: 10%
-[22:23:08] [Worker-Main-12/INFO]: Preparing spawn area: 15%
-[22:23:09] [Worker-Main-21/INFO]: Preparing spawn area: 25%
-[22:23:09] [Worker-Main-12/INFO]: Preparing spawn area: 37%
-[22:23:10] [Worker-Main-16/INFO]: Preparing spawn area: 51%
-[22:23:10] [Worker-Main-20/INFO]: Preparing spawn area: 85%
-[22:23:11] [Server thread/INFO]: Time elapsed: 8205 ms
-[22:23:11] [Server thread/INFO]: Done (8.363s)! For help, type "help"
-[22:23:13] [Server thread/WARN]: UUID of added entity already exists: bkz['Armor Stand'/83, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[22:23:15] [User Authenticator #1/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
-[22:23:15] [Server thread/INFO]: DJEggy10[/97.127.39.17:60333] logged in with entity id 84 at (279.15811608522455, 62.07326432466507, 545.3936403257533)
-[22:23:15] [Server thread/INFO]: DJEggy10 joined the game
-[22:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16333ms or 326 ticks behind
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 10.087956564758827,0.0,0.4955895366806544
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 10.397570602407257,0.0,0.5107998993029241
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 10.716175045110276,0.0,0.5264519322126944
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 11.042870852148042,0.0,0.542501468370574
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 11.376848886894209,0.0,0.5589087574423957
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 11.71738092640436,0.0,0.5756380241281249
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 12.063811570045743,0.0,0.5926570706586745
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 12.415550957264657,0.0,0.6099369190427524
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 12.772068213576802,0.0,0.6274514890887986
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 13.132885551958907,0.0,0.6451773086249659
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 13.497572964101437,0.0,0.6630932526971947
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 13.865743442536086,0.0,0.681180308847388
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 14.237048680550629,0.0,0.6994213658635999
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 14.611175202112292,0.0,0.7178010236556247
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 14.987840878799148,0.0,0.73630542214255
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 15.366791795038125,0.0,0.7549220872518845
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 15.74779942681954,0.0,0.7736397923187042
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 16.130658102540053,0.0,0.79244843334493
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 16.51518271776166,0.0,0.8113389167324385
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 16.901206678494532,0.0,0.8303030582430893
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 17.288580050151836,0.0,0.8493334920628968
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 17.677167891608917,0.0,0.8684235889592173
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 18.066848755856824,0.0,0.8875673826231605
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 18.457513340590424,0.0,0.9067595033765201
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 18.849063273737727,0.0,0.9259951185092632
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 19.241410020436206,0.0,0.9452698785825078
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 19.634473899311786,0.0,0.9645798691011578
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 20.028183197129636,0.0,0.98392156701982
-[22:23:31] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved too quickly! 20.422473371980175,0.0,1.0032918015978112
-[22:24:20] [User Authenticator #2/INFO]: UUID of player FairerTitan3 is 00bd70e3-1276-479d-a770-03a9be25e672
-[22:24:20] [Server thread/INFO]: FairerTitan3[/73.185.191.104:53073] logged in with entity id 1311 at (-429.52738864127343, -58.0, -5.311514968895681)
-[22:24:20] [Server thread/INFO]: FairerTitan3 joined the game
-[22:24:34] [User Authenticator #3/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[22:24:34] [Server thread/INFO]: k4i70[/127.0.0.1:51120] logged in with entity id 1602 at (-504.0092097997109, 112.0, -46.97250253579765)
-[22:24:34] [Server thread/INFO]: k4i70 joined the game
-[22:26:16] [Server thread/INFO]: <DJEggy10> i hate kar;l
-[22:26:20] [Server thread/INFO]: <FairerTitan3> kys
-[22:26:21] [Server thread/INFO]: <FairerTitan3> kys
-[22:26:23] [Server thread/INFO]: <FairerTitan3> kys
-[22:26:24] [Server thread/INFO]: <FairerTitan3> kys
-[22:26:25] [Server thread/INFO]: <FairerTitan3> kys
-[22:26:26] [Server thread/INFO]: <FairerTitan3> kys
-[22:26:28] [Server thread/INFO]: <FairerTitan3> kys
-[22:26:30] [Server thread/INFO]: <FairerTitan3> kys\
-[22:27:23] [Server thread/INFO]: k4i70 has made the advancement [Sweet Dreams]
-[22:28:15] [Server thread/INFO]: k4i70 has made the advancement [Stone Age]
-[22:28:36] [Server thread/INFO]: k4i70 has made the advancement [Getting an Upgrade]
-[22:28:52] [Server thread/INFO]: FairerTitan3 has made the advancement [Diamonds!]
-[22:35:13] [Server thread/INFO]: k4i70 has made the advancement [Acquire Hardware]
-[22:37:11] [Server thread/INFO]: k4i70 has made the advancement [Isn't It Iron Pick]
-[22:43:46] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
-[22:43:46] [Server thread/INFO]: DJEggy10 left the game
-[22:49:21] [Server thread/INFO]: k4i70 has made the advancement [A Seedy Place]
-[22:58:19] [Server thread/INFO]: k4i70 has made the advancement [Monster Hunter]
-[22:59:07] [Server thread/INFO]: FairerTitan3 lost connection: Disconnected
-[22:59:07] [Server thread/INFO]: FairerTitan3 left the game
-[23:00:10] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[23:00:10] [Server thread/INFO]: k4i70 left the game
-[23:00:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:00:18] [Server thread/INFO]: exit<--[HERE]
-[23:00:20] [Server thread/INFO]: Stopping the server
-[23:00:20] [Server thread/INFO]: Stopping server
-[23:00:20] [Server thread/INFO]: Saving players
-[23:00:20] [Server thread/INFO]: Saving worlds
-[23:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:04:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:04:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:04:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:04:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:04:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:04:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:04:09] [Worker-Main-17/INFO]: Loaded 7 recipes
+[17:04:10] [Worker-Main-17/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[17:04:10] [Worker-Main-17/INFO]: Loaded 1149 advancements
+[17:04:12] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[17:04:12] [Server thread/INFO]: Loading properties
+[17:04:12] [Server thread/INFO]: Default game type: SURVIVAL
+[17:04:12] [Server thread/INFO]: Generating keypair
+[17:04:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:04:12] [Server thread/INFO]: Using epoll channel type
+[17:04:12] [Server thread/INFO]: Preparing level "world"
+[17:04:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:04:14] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[17:04:14] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[17:04:14] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[17:04:14] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[17:04:14] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:04:15] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[17:04:15] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[17:04:16] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:04:16] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[17:04:17] [Worker-Main-20/INFO]: Preparing spawn area: 4%
+[17:04:17] [Worker-Main-15/INFO]: Preparing spawn area: 4%
+[17:04:18] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[17:04:18] [Worker-Main-15/INFO]: Preparing spawn area: 9%
+[17:04:19] [Worker-Main-22/INFO]: Preparing spawn area: 37%
+[17:04:19] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[17:04:20] [Worker-Main-15/INFO]: Preparing spawn area: 67%
+[17:04:20] [Worker-Main-15/INFO]: Preparing spawn area: 92%
+[17:04:21] [Server thread/INFO]: Time elapsed: 8834 ms
+[17:04:21] [Server thread/INFO]: Done (8.983s)! For help, type "help"
+[17:04:23] [Server thread/WARN]: UUID of added entity already exists: bkz['Armor Stand'/65, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[17:05:12] [User Authenticator #1/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[17:05:12] [Server thread/INFO]: k4i70[/127.0.0.1:33932] logged in with entity id 66 at (-553.2032511249281, 124.0, -109.71892976484398)
+[17:05:12] [Server thread/INFO]: k4i70 joined the game
+[17:21:36] [Server thread/INFO]: k4i70 was blown up by Creeper
+[17:21:37] [Server thread/WARN]: k4i70 moved too quickly! 23.80000001192093,75.0,96.19999998807907
+[17:22:35] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[17:22:35] [Server thread/INFO]: k4i70 left the game
+[17:22:42] [User Authenticator #2/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[17:22:42] [Server thread/INFO]: k4i70[/127.0.0.1:33936] logged in with entity id 3853 at (-577.3000000119209, 37.0, -155.67256592191333)
+[17:22:42] [Server thread/INFO]: k4i70 joined the game
+[17:23:21] [Server thread/INFO]: k4i70 was slain by Zombie
+[17:23:22] [Server thread/WARN]: k4i70 moved too quickly! 23.811671252274323,75.0,96.19999998807907
+[17:23:22] [Server thread/WARN]: k4i70 moved too quickly! 23.811671252274323,75.0,96.19999998807907
+[17:24:29] [Server thread/INFO]: k4i70 was blown up by Creeper
+[17:25:12] [Server thread/INFO]: k4i70 was blown up by Creeper
+[17:25:14] [Server thread/WARN]: k4i70 moved too quickly! 23.80000001192093,74.51388791497591,96.19999998807907
+[17:31:45] [Server thread/INFO]: k4i70 has made the advancement [Suit Up]
+[17:57:47] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[17:57:47] [Server thread/INFO]: k4i70 left the game
+[17:57:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:57:51] [Server thread/INFO]: exit<--[HERE]
+[17:57:53] [Server thread/INFO]: Stopping the server
+[17:57:53] [Server thread/INFO]: Stopping server
+[17:57:53] [Server thread/INFO]: Saving players
+[17:57:53] [Server thread/INFO]: Saving worlds
+[17:57:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:57:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:57:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:57:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:57:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:57:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:57:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
