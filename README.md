@@ -31,7 +31,7 @@ Note: only need git remote add origin command for first time setup
 
 
 
-<h2>RUNNING AGAIN</h2>
+<h2>RUNNING AGAIN (not your first time)</h2>
 
 <h3>mac:</h3>
 open terminal
