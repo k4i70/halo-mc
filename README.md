@@ -1,49 +1,56 @@
 # halo-mc
 
-STEPS TO RUN THE SERVER FOR THE FIRST TIME
+<h2>STEPS TO RUN THE SERVER FOR THE FIRST TIME</h2>
 
-Prerequisites
+<h3>Prerequisites</h3>
 1) Make sure you have the Java JDK installed on your computer. 
 2) Install git on your computer 
+3) Port forward 25565 on your router. (google this for your specific router)
 
-Instructions on mac
+<h3>Instructions on mac</h3>
 1) open command prompt/terminal
-2) git clone https://github.com/k4i70/halo-mc/
-3) cd halo-mc
-4) ./start.sh
+<pre>
+git clone https://github.com/k4i70/halo-mc/
+cd halo-mc
+./start.sh
+</pre>
 
-Instructions on windows
+<h3>Instructions on windows</h3>
 1) open command prompt (type cmd into start menu)
-2) git clone https://github.com/k4i70/halo-mc
-3) dir halo-mc
-4) java -Xmx1024M -Xms1024M -jar launcher.jar nogui
-5) git add .
-6) git commit -m "this commit"
-7) git branch -M main
-8) git remote add origin https://github.com/k4i70/halo-mc
-9) git push origin main
-Note: only need step 8 for first time setup
+<pre>
+git clone https://github.com/k4i70/halo-mc
+dir halo-mc
+java -Xmx1024M -Xms1024M -jar launcher.jar nogui
+git add .
+git commit -m "this commit"
+git branch -M main
+git remote add origin https://github.com/k4i70/halo-mc
+git push origin main
+</pre>
+Note: only need git remote add origin command for first time setup
 
 
 
-RUNNING AGAIN
+<h2>RUNNING AGAIN</h2>
 
-mac:
-1) open terminal
-2) cd halo-mc
-3) ./start.sh
+<h3>mac:</h3>
+open terminal
+<pre>
+cd halo-mc
+./start.sh
+</pre>
 
-windows:
+<h3>windows:</h3>
 1) open command prompt
-<code>
-dir halo-mc <br>
-git pull <br>
-java -Xmx1024M -Xms1024M -jar launcher.jar nogui <br>
-git add . <br>
-git commit -m "this commit" <br>
-git branch -M main <br>
+<pre>
+dir halo-mc 
+git pull 
+java -Xmx1024M -Xms1024M -jar launcher.jar nogui 
+git add . 
+git commit -m "this commit" 
+git branch -M main 
 git push origin main 
-</code>
+</pre>
 
 When done playing just type <code>stop</code> into the command prompt, wait for the server to stop and then enter your github username and a PAT with repo scopes. Also must be a collaborator. 
 This script should pull down any changes from this website before starting, and when finished push changes up back into github. 
