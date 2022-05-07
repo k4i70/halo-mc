@@ -52,5 +52,6 @@ git branch -M main
 git push origin main 
 </pre>
 
-When done playing just type <code>stop</code> into the command prompt, wait for the server to stop and then enter your github username and a PAT with repo scopes. Also must be a collaborator. 
-This script should pull down any changes from this website before starting, and when finished push changes up back into github. 
+When done playing just type <code>stop</code> into the command prompt, wait for the server to stop, and then enter your github username and a PAT with repo scopes. Also must be a collaborator. (Just ask me) 
+
+These instructions should pull down any changes from this website before starting, and when finished push changes up back into github. 
