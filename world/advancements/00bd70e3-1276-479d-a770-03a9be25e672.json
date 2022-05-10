@@ -476,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-09 16:31:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-01 20:43:54 -0500"
@@ -530,9 +536,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-09 16:31:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2022-05-03 22:45:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-05-09 16:26:37 -0500"
     },
     "done": true
   },
@@ -793,6 +811,7 @@
       "minecraft:skeleton": "2022-05-01 22:12:39 -0500",
       "minecraft:spider": "2022-05-08 22:10:56 -0500",
       "minecraft:creeper": "2022-05-08 22:11:07 -0500",
+      "minecraft:slime": "2022-05-09 17:13:56 -0500",
       "minecraft:zombie": "2022-05-01 21:28:13 -0500"
     },
     "done": false
@@ -1025,6 +1044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-05-09 17:14:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2022-05-03 22:56:40 -0500"
@@ -1091,9 +1116,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-09 16:31:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-05-03 22:45:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-05-09 16:35:06 -0500"
     },
     "done": true
   },
@@ -1160,6 +1197,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-05-03 22:45:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-05-09 17:14:06 -0500"
     },
     "done": true
   },
@@ -1313,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-05-09 17:14:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-05-01 20:33:32 -0500"
@@ -1357,6 +1406,7 @@
       "minecraft:stony_shore": "2022-05-01 20:31:43 -0500",
       "minecraft:grove": "2022-05-01 20:37:08 -0500",
       "minecraft:cold_ocean": "2022-05-01 20:38:55 -0500",
+      "minecraft:forest": "2022-05-09 16:46:05 -0500",
       "minecraft:lush_caves": "2022-05-01 21:12:36 -0500",
       "minecraft:ocean": "2022-05-03 22:44:25 -0500",
       "minecraft:old_growth_spruce_taiga": "2022-05-01 22:13:25 -0500"
@@ -1402,6 +1452,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-05-01 21:07:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-05-09 16:39:36 -0500"
     },
     "done": true
   },
