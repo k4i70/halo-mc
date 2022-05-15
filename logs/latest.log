@@ -1,0 +1,386 @@
+[10:51:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:51:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:51:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:51:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:51:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:51:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:51:54] [Worker-Main-16/INFO]: Loaded 7 recipes
+[10:51:54] [Worker-Main-16/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[10:51:54] [Worker-Main-16/INFO]: Loaded 1149 advancements
+[10:51:56] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[10:51:56] [Server thread/INFO]: Loading properties
+[10:51:56] [Server thread/INFO]: Default game type: SURVIVAL
+[10:51:56] [Server thread/INFO]: Generating keypair
+[10:51:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:51:57] [Server thread/INFO]: Using epoll channel type
+[10:51:57] [Server thread/INFO]: Preparing level "world"
+[10:51:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:51:58] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[10:51:58] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[10:51:58] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[10:51:58] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[10:51:59] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[10:51:59] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[10:52:00] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[10:52:00] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[10:52:01] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[10:52:01] [Worker-Main-22/INFO]: Preparing spawn area: 1%
+[10:52:02] [Worker-Main-22/INFO]: Preparing spawn area: 4%
+[10:52:02] [Worker-Main-22/INFO]: Preparing spawn area: 4%
+[10:52:03] [Worker-Main-20/INFO]: Preparing spawn area: 4%
+[10:52:03] [Worker-Main-19/INFO]: Preparing spawn area: 4%
+[10:52:04] [Worker-Main-17/INFO]: Preparing spawn area: 4%
+[10:52:04] [Worker-Main-15/INFO]: Preparing spawn area: 6%
+[10:52:05] [Worker-Main-17/INFO]: Preparing spawn area: 10%
+[10:52:05] [Worker-Main-22/INFO]: Preparing spawn area: 13%
+[10:52:06] [Worker-Main-17/INFO]: Preparing spawn area: 16%
+[10:52:06] [Worker-Main-13/INFO]: Preparing spawn area: 19%
+[10:52:07] [Worker-Main-14/INFO]: Preparing spawn area: 26%
+[10:52:07] [Worker-Main-17/INFO]: Preparing spawn area: 38%
+[10:52:08] [Worker-Main-22/INFO]: Preparing spawn area: 58%
+[10:52:08] [Worker-Main-19/INFO]: Preparing spawn area: 72%
+[10:52:09] [Worker-Main-17/INFO]: Preparing spawn area: 84%
+[10:52:09] [Worker-Main-20/INFO]: Preparing spawn area: 98%
+[10:52:10] [Server thread/INFO]: Time elapsed: 13543 ms
+[10:52:10] [Server thread/INFO]: Done (13.738s)! For help, type "help"
+[10:52:14] [Server thread/WARN]: UUID of added entity already exists: bkz['Armor Stand'/38, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[10:52:32] [User Authenticator #1/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[10:52:33] [Server thread/INFO]: k4i70[/127.0.0.1:46588] logged in with entity id 39 at (-555.753724553525, 124.0, -108.81731723523137)
+[10:52:33] [Server thread/INFO]: k4i70 joined the game
+[11:01:12] [Server thread/INFO]: k4i70 fell from a high place
+[11:11:59] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[11:11:59] [Server thread/INFO]: k4i70 left the game
+[12:52:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@29ee3ad1[id=<null>,name=k4i70,properties={},legacy=false] (/192.168.86.1:65210) lost connection: Disconnected
+[12:53:07] [User Authenticator #2/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[12:53:07] [Server thread/INFO]: k4i70[/192.168.86.1:65255] logged in with entity id 4737 at (-204.5816064405516, 51.0, 231.3628889382841)
+[12:53:07] [Server thread/INFO]: k4i70 joined the game
+[13:04:28] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[13:04:28] [Server thread/INFO]: k4i70 left the game
+[13:06:47] [User Authenticator #3/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[13:06:47] [Server thread/INFO]: k4i70[/192.168.86.1:65300] logged in with entity id 10185 at (-524.2575365221967, 62.07326432466507, -22.178257167639323)
+[13:06:47] [Server thread/INFO]: k4i70 joined the game
+[13:07:23] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[13:07:23] [Server thread/INFO]: k4i70 left the game
+[13:25:28] [User Authenticator #4/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[13:25:28] [Server thread/INFO]: k4i70[/192.168.86.1:65394] logged in with entity id 10661 at (-553.0149209129994, 124.0, -109.80869637280406)
+[13:25:28] [Server thread/INFO]: k4i70 joined the game
+[13:37:43] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[13:37:43] [Server thread/INFO]: k4i70 left the game
+[13:52:45] [User Authenticator #5/INFO]: UUID of player Keefii_ is e2033208-b464-4ca0-89c9-6cd515a6df3c
+[13:52:45] [Server thread/INFO]: Keefii_[/73.242.30.217:56999] logged in with entity id 12405 at (-584.2029169456172, 108.0, -33.9660224839436)
+[13:52:45] [Server thread/INFO]: Keefii_ joined the game
+[13:56:55] [User Authenticator #6/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[13:56:55] [Server thread/INFO]: DJEggy10[/97.127.39.17:51772] logged in with entity id 13394 at (-505.5503813802046, 106.0, -53.34354586241011)
+[13:56:55] [Server thread/INFO]: DJEggy10 joined the game
+[14:04:54] [User Authenticator #7/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[14:04:54] [Server thread/INFO]: k4i70[/192.168.86.1:49318] logged in with entity id 15191 at (-570.9810074752737, 135.0, -107.69353768635554)
+[14:04:54] [Server thread/INFO]: k4i70 joined the game
+[14:04:58] [Server thread/INFO]: <DJEggy10> discord
+[14:05:35] [Server thread/INFO]: <k4i70> -2156 392
+[14:05:39] [Server thread/INFO]: <k4i70> -2156 392
+[14:07:32] [Server thread/INFO]: <DJEggy10> amndrew
+[14:07:35] [Server thread/INFO]: <DJEggy10> come to meee
+[14:13:27] [Server thread/INFO]: DJEggy10 has made the advancement [Total Beelocation]
+[14:21:29] [Server thread/INFO]: Keefii_ was blown up by Creeper
+[14:21:32] [Server thread/WARN]: Keefii_ moved too quickly! 1204.6471239056682,107.5625,-527.8000000119209
+[14:21:39] [Server thread/INFO]: [DJEggy10: Teleported Keefii_ to DJEggy10]
+[14:30:55] [Server thread/INFO]: DJEggy10 has made the advancement [Eye Spy]
+[14:30:56] [Server thread/INFO]: Keefii_ has made the advancement [Eye Spy]
+[14:30:59] [Server thread/INFO]: k4i70 has made the advancement [Eye Spy]
+[14:35:58] [Server thread/INFO]: <DJEggy10> -1742 415
+[14:36:01] [Server thread/INFO]: <DJEggy10> -11
+[14:36:23] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[14:36:23] [Server thread/INFO]: k4i70 left the game
+[14:36:25] [User Authenticator #8/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[14:36:25] [Server thread/INFO]: k4i70[/192.168.86.1:49447] logged in with entity id 26549 at (-1704.5205081772872, -21.0, 456.07893927964363)
+[14:36:25] [Server thread/INFO]: k4i70 joined the game
+[14:41:04] [Server thread/INFO]: DJEggy10 has made the advancement [The End?]
+[14:41:04] [Server thread/INFO]: Keefii_ has made the advancement [The End?]
+[14:41:04] [Server thread/INFO]: k4i70 has made the advancement [The End?]
+[14:41:06] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:41:06] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[14:42:12] [Server thread/INFO]: Keefii_ was slain by Enderman
+[14:42:52] [Server thread/INFO]: Keefii_ has reached the goal [You Need a Mint]
+[14:43:37] [Server thread/INFO]: Keefii_ blew up
+[14:46:28] [Server thread/INFO]: Keefii_ was slain by Ender Dragon
+[14:47:02] [Server thread/INFO]: DJEggy10 has reached the goal [You Need a Mint]
+[14:48:21] [Server thread/INFO]: Keefii_ fell from a high place
+[14:51:10] [Server thread/INFO]: k4i70 fell from a high place
+[14:51:39] [Server thread/INFO]: DJEggy10 has made the advancement [Is It a Plane?]
+[14:51:49] [Server thread/INFO]: Keefii_ has made the advancement [Is It a Plane?]
+[14:52:12] [Server thread/INFO]: DJEggy10 was slain by Ender Dragon
+[14:53:36] [Server thread/INFO]: Keefii_ fell from a high place
+[14:53:43] [Server thread/WARN]: Keefii_ moved too quickly! 1849.2730471278392,57.46415937495544,-414.94474584056906
+[14:54:56] [Server thread/INFO]: DJEggy10 was slain by Enderman
+[14:55:49] [Server thread/INFO]: k4i70 fell from a high place
+[15:03:09] [Server thread/INFO]: Keefii_ was slain by Enderman
+[15:03:45] [Server thread/INFO]: DJEggy10 was slain by Ender Dragon
+[15:04:18] [Server thread/INFO]: k4i70 was slain by Enderman
+[15:07:32] [Server thread/INFO]: Keefii_ was slain by Ender Dragon
+[15:07:35] [Server thread/INFO]: k4i70 fell from a high place
+[15:07:38] [Server thread/WARN]: Keefii_ moved too quickly! 1849.3915164509735,57.46415937495544,-415.1048019629345
+[15:08:19] [Server thread/INFO]: Keefii_ has made the advancement [Free the End]
+[15:11:48] [Server thread/INFO]: Keefii_ lost connection: Disconnected
+[15:11:48] [Server thread/INFO]: Keefii_ left the game
+[15:11:50] [User Authenticator #9/INFO]: UUID of player Keefii_ is e2033208-b464-4ca0-89c9-6cd515a6df3c
+[15:11:50] [Server thread/INFO]: Keefii_[/73.242.30.217:55215] logged in with entity id 35251 at (-223.9821691828929, 79.0, -173.90218711812614)
+[15:11:50] [Server thread/INFO]: Keefii_ joined the game
+[15:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-173}
+[15:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-173}
+[15:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-173}
+[15:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-173}
+[15:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-173}
+[15:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-173}
+[15:11:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-173}
+[15:12:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-225, y=79, z=-182}
+[15:12:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-225, y=79, z=-183}
+[15:12:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=79, z=-183}
+[15:12:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-183}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-229, y=78, z=-182}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-229, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-228, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-228, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-228, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-228, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-228, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=78, z=-181}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:12:22] [Server thread/INFO]: Keefii_ lost connection: Disconnected
+[15:12:22] [Server thread/INFO]: Keefii_ left the game
+[15:12:24] [User Authenticator #10/INFO]: UUID of player Keefii_ is e2033208-b464-4ca0-89c9-6cd515a6df3c
+[15:12:24] [Server thread/INFO]: Keefii_[/73.242.30.217:55233] logged in with entity id 35344 at (-223.24415139467476, 80.0, -175.81785680006644)
+[15:12:24] [Server thread/INFO]: Keefii_ joined the game
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-171}
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-171}
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-171}
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:12:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-171}
+[15:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-172}
+[15:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-173}
+[15:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-174}
+[15:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-174}
+[15:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-177}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-225, y=78, z=-175}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=79, z=-176}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-176}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-176}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-177}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=78, z=-177}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=79, z=-176}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-222, y=79, z=-177}
+[15:12:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-222, y=79, z=-177}
+[15:12:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-222, y=79, z=-177}
+[15:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-173}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-174}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-175}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-175}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-176}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-176}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-176}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-176}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-176}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-177}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-177}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-177}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-177}
+[15:13:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-177}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-177}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-221, y=79, z=-177}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=78, z=-177}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-224, y=78, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-225, y=79, z=-180}
+[15:13:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-223, y=79, z=-179}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=79, z=-171}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-171}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-171}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=79, z=-172}
+[15:13:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=79, z=-181}
+[15:13:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=79, z=-181}
+[15:13:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-226, y=79, z=-181}
+[15:13:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-182}
+[15:13:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-183}
+[15:13:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-184}
+[15:13:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-227, y=79, z=-184}
+[15:13:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-229, y=79, z=-186}
+[15:13:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-230, y=79, z=-187}
+[15:13:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-230, y=80, z=-189}
+[15:13:53] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-220, y=81, z=-162}
+[15:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-225, y=79, z=-180}
+[15:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-225, y=79, z=-180}
+[15:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-225, y=79, z=-180}
+[15:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-225, y=79, z=-180}
+[15:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-226, y=79, z=-181}
+[15:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-227, y=79, z=-182}
+[15:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-227, y=79, z=-182}
+[15:13:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-186}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-186}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-229, y=79, z=-185}
+[15:14:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-219, y=79, z=-174}
+[15:14:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-217, y=83, z=-156} gj{x=-218, y=79, z=-170}
+[15:14:53] [Server thread/INFO]: k4i70 has made the advancement [A Terrible Fortress]
+[15:15:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=81, z=-158} gj{x=-220, y=80, z=-160}
+[15:15:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-216, y=83, z=-159} gj{x=-225, y=82, z=-186}
+[15:15:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-216, y=83, z=-159} gj{x=-225, y=82, z=-186}
+[15:15:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-216, y=83, z=-159} gj{x=-225, y=82, z=-186}
+[15:15:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-216, y=83, z=-159} gj{x=-225, y=82, z=-186}
+[15:15:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-216, y=83, z=-159} gj{x=-225, y=85, z=-192}
+[15:15:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-225, y=84, z=-193} gj{x=-212, y=83, z=-170}
+[15:15:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-225, y=84, z=-193} gj{x=-213, y=83, z=-168}
+[15:15:57] [Server thread/INFO]: Keefii_ lost connection: Disconnected
+[15:15:57] [Server thread/INFO]: Keefii_ left the game
+[15:15:59] [User Authenticator #11/INFO]: UUID of player Keefii_ is e2033208-b464-4ca0-89c9-6cd515a6df3c
+[15:15:59] [Server thread/INFO]: Keefii_[/73.242.30.217:55279] logged in with entity id 36712 at (-217.78208965975838, 80.0, -170.4499856187923)
+[15:15:59] [Server thread/INFO]: Keefii_ joined the game
+[15:16:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-220, y=84, z=-184}
+[15:16:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=0, y=0, z=0} gj{x=-219, y=85, z=-186}
+[15:18:58] [Server thread/INFO]: Stopping the server
+[15:18:58] [Server thread/INFO]: Stopping server
+[15:18:58] [Server thread/INFO]: Saving players
+[15:18:58] [Server thread/INFO]: Saving worlds
+[15:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
