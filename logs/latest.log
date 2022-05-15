@@ -1,36 +1,11 @@
-[08:52:37] [User Authenticator #1/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[08:52:37] [Server thread/INFO]: k4i70[/68.235.38.165:55722] logged in with entity id 41 at (-775.7052598815395, -25.0, 34.78004239279434)
-[08:52:37] [Server thread/INFO]: k4i70 joined the game
-[09:00:09] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[09:00:09] [Server thread/INFO]: k4i70 left the game
-[19:20:15] [User Authenticator #2/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
-[19:20:16] [Server thread/INFO]: DJEggy10[/97.127.39.17:58382] logged in with entity id 1544 at (-554.5370172249231, 107.0, -41.49710480108307)
-[19:20:16] [Server thread/INFO]: DJEggy10 joined the game
-[19:33:52] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
-[19:33:52] [Server thread/INFO]: DJEggy10 left the game
-[19:35:42] [User Authenticator #3/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
-[19:35:43] [Server thread/INFO]: DJEggy10[/97.127.39.17:59008] logged in with entity id 4384 at (-505.38611081322694, 106.0, -52.61640069967271)
-[19:35:43] [Server thread/INFO]: DJEggy10 joined the game
-[19:41:57] [Server thread/INFO]: Villager bnw['Cleric'/4508, l='ServerLevel[world]', x=-547.30, y=104.00, z=-37.70] died, message: 'Cleric was slain by DJEggy10'
-[19:56:46] [Server thread/INFO]: Villager bnw['Villager'/4773, l='ServerLevel[world]', x=-548.70, y=105.00, z=-38.07] died, message: 'Villager suffocated in a wall'
-[19:58:01] [Server thread/INFO]: DJEggy10 has made the advancement [The Cutest Predator]
-[20:55:55] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
-[20:55:55] [Server thread/INFO]: DJEggy10 left the game
-[21:27:42] [User Authenticator #4/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
-[21:27:42] [Server thread/INFO]: DJEggy10[/97.127.39.17:59635] logged in with entity id 21252 at (-507.0468499128233, 106.0, -53.44573995991107)
-[21:27:42] [Server thread/INFO]: DJEggy10 joined the game
-[21:29:02] [Server thread/WARN]: Boat (vehicle of DJEggy10) moved wrongly! 0.4086335766261868
-[22:48:49] [Server thread/INFO]: Villager bnw['Villager'/42944, l='ServerLevel[world]', x=-542.70, y=88.42, z=-35.59] died, message: 'Villager was slain by Zombie'
-[22:58:42] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
-[22:58:42] [Server thread/INFO]: DJEggy10 left the game
-[23:22:58] [Server thread/INFO]: Stopping the server
-[23:22:58] [Server thread/INFO]: Stopping server
-[23:22:58] [Server thread/INFO]: Saving players
-[23:22:58] [Server thread/INFO]: Saving worlds
-[23:22:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:22:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:22:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:13:20] [Server thread/INFO]: Stopping the server
+[03:13:20] [Server thread/INFO]: Stopping server
+[03:13:20] [Server thread/INFO]: Saving players
+[03:13:20] [Server thread/INFO]: Saving worlds
+[03:13:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:13:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:13:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:13:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:13:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
