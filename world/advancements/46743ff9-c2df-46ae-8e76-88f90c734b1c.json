@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-05-15 22:56:00 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-05-08 21:43:36 -0500"
@@ -1116,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-05-15 22:54:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2022-05-15 14:22:38 -0500"
@@ -1828,6 +1840,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-05-01 19:32:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-05-15 22:56:00 -0500"
     },
     "done": true
   },
