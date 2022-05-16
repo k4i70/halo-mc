@@ -580,6 +580,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-05-16 15:35:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-05-06 17:10:57 -0500"
@@ -1265,6 +1271,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-05-07 22:57:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-05-16 15:35:09 -0500"
     },
     "done": true
   },
