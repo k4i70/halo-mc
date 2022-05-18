@@ -605,6 +605,7 @@
       "minecraft:skeleton": "2022-05-01 20:43:51 -0500",
       "minecraft:spider": "2022-05-02 18:32:45 -0500",
       "minecraft:creeper": "2022-05-01 20:53:57 -0500",
+      "minecraft:wither_skeleton": "2022-05-17 22:21:41 -0500",
       "minecraft:ender_dragon": "2022-05-15 15:08:19 -0500",
       "minecraft:enderman": "2022-05-10 21:52:52 -0500",
       "minecraft:zombie": "2022-05-01 20:32:47 -0500",
@@ -1413,6 +1414,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-05-17 22:19:31 -0500",
+      "minecraft:nether_wastes": "2022-05-17 22:21:17 -0500",
+      "minecraft:warped_forest": "2022-05-17 22:17:22 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2022-05-01 21:49:01 -0500"
@@ -1548,6 +1557,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-05-15 14:30:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-05-17 22:17:21 -0500"
     },
     "done": true
   },
@@ -2159,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-05-17 22:17:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-15 14:38:12 -0500"
@@ -2399,6 +2420,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-05-17 22:20:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-05-15 14:30:56 -0500"
@@ -2420,6 +2447,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2022-05-15 14:21:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-05-17 22:18:22 -0500"
     },
     "done": true
   },
