@@ -512,12 +512,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-05-11 21:11:34 -0500",
+      "minecraft:blaze": "2022-05-18 23:21:54 -0500",
       "minecraft:skeleton": "2022-05-06 17:33:00 -0500",
+      "minecraft:magma_cube": "2022-05-18 23:25:25 -0500",
       "minecraft:spider": "2022-05-07 22:36:46 -0500",
       "minecraft:creeper": "2022-05-15 11:03:33 -0500",
       "minecraft:slime": "2022-05-11 12:18:23 -0500",
       "minecraft:zombified_piglin": "2022-05-15 14:39:51 -0500",
       "minecraft:witch": "2022-05-11 12:16:40 -0500",
+      "minecraft:wither_skeleton": "2022-05-18 23:21:28 -0500",
       "minecraft:silverfish": "2022-05-15 14:31:21 -0500",
       "minecraft:enderman": "2022-05-15 14:45:29 -0500",
       "minecraft:zombie": "2022-05-03 22:58:19 -0500",
@@ -525,6 +528,12 @@
       "minecraft:zombie_villager": "2022-05-06 17:32:46 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-05-18 23:27:19 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -679,6 +688,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-05-06 17:10:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-05-18 23:22:08 -0500"
     },
     "done": true
   },
@@ -1000,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-05-18 23:27:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-07 15:46:56 -0500"
@@ -1262,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-05-18 23:27:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-05-03 22:57:29 -0500"
@@ -1475,6 +1502,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-05-07 15:59:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-05-18 23:58:58 -0500"
     },
     "done": true
   },
@@ -1870,6 +1903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-05-18 23:52:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-07 23:28:07 -0500"
@@ -1897,6 +1936,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-05-03 22:57:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-05-18 23:52:54 -0500"
     },
     "done": true
   },
@@ -2017,6 +2062,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-05-03 22:57:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-05-18 23:58:58 -0500"
     },
     "done": true
   },
@@ -2254,6 +2305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-05-18 23:22:08 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-05-11 20:23:55 -0500"
@@ -2275,6 +2332,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-05-03 22:32:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-05-18 23:22:08 -0500"
     },
     "done": true
   },

@@ -1,35 +1,13 @@
-[00:09:36] [User Authenticator #1/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[00:09:36] [Server thread/INFO]: k4i70[/68.46.29.43:56650] logged in with entity id 37 at (-557.7959793631305, 124.0, -106.91715391931402)
-[00:09:36] [Server thread/INFO]: k4i70 joined the game
-[00:52:58] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[00:52:58] [Server thread/INFO]: k4i70 left the game
-[09:37:13] [User Authenticator #2/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[09:37:13] [Server thread/INFO]: k4i70[/68.46.29.43:58271] logged in with entity id 6214 at (-315.27371515051476, 78.0, -92.40498414656498)
-[09:37:13] [Server thread/INFO]: k4i70 joined the game
-[10:11:52] [Server thread/INFO]: k4i70 was slain by Enderman
-[10:19:08] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[10:19:08] [Server thread/INFO]: k4i70 left the game
-[10:19:34] [User Authenticator #3/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[10:19:34] [Server thread/INFO]: k4i70[/68.46.29.43:58479] logged in with entity id 13846 at (-559.2732885064712, 124.0, -106.66519533813177)
-[10:19:34] [Server thread/INFO]: k4i70 joined the game
-[10:39:33] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[10:39:33] [Server thread/INFO]: k4i70 left the game
-[14:18:26] [User Authenticator #4/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[14:18:26] [Server thread/INFO]: k4i70[/68.46.29.43:59985] logged in with entity id 24846 at (-555.1988255264976, 124.0, -108.92938168880771)
-[14:18:26] [Server thread/INFO]: k4i70 joined the game
-[14:43:43] [Server thread/INFO]: k4i70 has made the advancement [Cover Me with Diamonds]
-[14:55:52] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[14:55:52] [Server thread/INFO]: k4i70 left the game
-[17:40:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:40:00] [Server thread/INFO]: dfsstop<--[HERE]
-[17:40:04] [Server thread/INFO]: Stopping the server
-[17:40:04] [Server thread/INFO]: Stopping server
-[17:40:04] [Server thread/INFO]: Saving players
-[17:40:04] [Server thread/INFO]: Saving worlds
-[17:40:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:40:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:40:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:22:12] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[00:22:12] [Server thread/INFO]: k4i70 left the game
+[00:22:37] [Server thread/INFO]: Stopping the server
+[00:22:37] [Server thread/INFO]: Stopping server
+[00:22:37] [Server thread/INFO]: Saving players
+[00:22:37] [Server thread/INFO]: Saving worlds
+[00:22:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:22:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:22:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:22:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:22:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:22:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:22:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
