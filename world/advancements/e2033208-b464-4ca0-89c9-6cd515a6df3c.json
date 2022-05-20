@@ -625,6 +625,7 @@
       "minecraft:creeper": "2022-05-01 20:53:57 -0500",
       "minecraft:wither_skeleton": "2022-05-17 22:21:41 -0500",
       "minecraft:ender_dragon": "2022-05-15 15:08:19 -0500",
+      "minecraft:piglin": "2022-05-19 21:53:13 -0500",
       "minecraft:enderman": "2022-05-10 21:52:52 -0500",
       "minecraft:zombie": "2022-05-01 20:32:47 -0500",
       "minecraft:zombie_villager": "2022-05-08 21:32:14 -0500"
@@ -2855,6 +2856,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2022-05-11 17:14:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2022-05-19 21:56:27 -0500"
     },
     "done": true
   },

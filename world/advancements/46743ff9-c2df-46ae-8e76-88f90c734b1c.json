@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-05-19 22:34:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-01 20:16:41 -0500"
@@ -278,6 +284,18 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2022-05-02 21:11:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2022-05-19 22:30:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-05-19 22:02:50 -0500"
     },
     "done": true
   },
@@ -350,6 +368,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2022-05-16 20:38:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-05-19 22:30:40 -0500"
     },
     "done": true
   },
@@ -863,6 +887,7 @@
       "minecraft:zombified_piglin": "2022-05-03 20:59:58 -0500",
       "minecraft:witch": "2022-05-13 21:41:33 -0500",
       "minecraft:wither_skeleton": "2022-05-06 21:45:42 -0500",
+      "minecraft:shulker": "2022-05-19 22:26:55 -0500",
       "minecraft:piglin": "2022-05-02 20:46:13 -0500",
       "minecraft:enderman": "2022-05-01 20:18:42 -0500",
       "minecraft:zombie": "2022-05-01 20:05:17 -0500",
@@ -1751,6 +1776,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2022-05-19 22:30:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-05-19 22:34:28 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-05-01 19:32:19 -0500"
@@ -2209,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-05-19 22:30:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2022-05-01 21:24:33 -0500"
@@ -2455,6 +2498,7 @@
       "cooked_mutton": "2022-05-01 21:23:24 -0500",
       "sweet_berries": "2022-05-01 19:35:03 -0500",
       "cooked_beef": "2022-05-01 19:49:01 -0500",
+      "chorus_fruit": "2022-05-19 22:27:21 -0500",
       "baked_potato": "2022-05-02 21:02:49 -0500",
       "apple": "2022-05-01 21:17:11 -0500",
       "pumpkin_pie": "2022-05-01 21:17:06 -0500",
@@ -3532,6 +3576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-05-19 22:26:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2022-05-02 20:42:48 -0500"
@@ -3580,6 +3630,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-05-19 22:26:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-05-06 21:42:25 -0500"
@@ -3595,6 +3651,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2022-05-17 20:28:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-05-19 22:02:38 -0500"
     },
     "done": true
   },
@@ -3742,6 +3804,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-05-19 22:30:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-05-02 21:10:30 -0500"
@@ -3805,6 +3873,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2022-05-16 20:28:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2022-05-19 22:30:40 -0500"
     },
     "done": true
   },
@@ -3943,6 +4017,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-05-16 20:38:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-05-19 22:30:40 -0500"
     },
     "done": true
   },
