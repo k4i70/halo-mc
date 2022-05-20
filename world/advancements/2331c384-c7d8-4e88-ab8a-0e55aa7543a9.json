@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-05-20 11:37:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2022-05-06 17:57:35 -0500"
@@ -338,6 +344,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-03 22:33:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-05-20 12:06:30 -0500"
     },
     "done": true
   },
@@ -866,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-05-20 12:06:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-05-07 15:59:08 -0500"
@@ -1362,6 +1380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-05-20 12:06:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-05-03 22:31:20 -0500"
@@ -1584,6 +1608,7 @@
       "cooked_mutton": "2022-05-03 22:59:59 -0500",
       "sweet_berries": "2022-05-03 22:38:47 -0500",
       "cooked_beef": "2022-05-03 22:57:04 -0500",
+      "chorus_fruit": "2022-05-20 11:19:22 -0500",
       "cooked_cod": "2022-05-06 17:18:10 -0500",
       "bread": "2022-05-07 15:05:20 -0500",
       "rotten_flesh": "2022-05-11 17:11:34 -0500",
