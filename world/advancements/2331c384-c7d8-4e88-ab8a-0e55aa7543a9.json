@@ -1175,6 +1175,7 @@
       "minecraft:birch_forest": "2022-05-15 12:59:42 -0500",
       "minecraft:beach": "2022-05-06 17:40:18 -0500",
       "minecraft:dark_forest": "2022-05-06 17:39:32 -0500",
+      "minecraft:sparse_jungle": "2022-05-21 00:29:53 -0500",
       "minecraft:river": "2022-05-06 17:37:56 -0500",
       "minecraft:stony_shore": "2022-05-01 21:33:35 -0500",
       "minecraft:grove": "2022-05-06 17:14:32 -0500",
@@ -1182,6 +1183,7 @@
       "minecraft:forest": "2022-05-03 22:27:45 -0500",
       "minecraft:lush_caves": "2022-05-12 15:00:20 -0500",
       "minecraft:ocean": "2022-05-06 17:38:14 -0500",
+      "minecraft:jungle": "2022-05-21 00:29:59 -0500",
       "minecraft:old_growth_spruce_taiga": "2022-05-11 13:37:09 -0500",
       "minecraft:old_growth_birch_forest": "2022-05-06 17:39:36 -0500",
       "minecraft:plains": "2022-05-11 17:01:03 -0500"
@@ -1296,15 +1298,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_purple_dye": "2022-05-20 23:19:33 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2022-05-20 23:19:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2022-05-20 23:19:33 -0500"
     },
     "done": true
   },
@@ -1347,6 +1349,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-05-07 23:02:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2022-05-21 00:11:15 -0500"
     },
     "done": true
   },
