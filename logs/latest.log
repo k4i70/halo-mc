@@ -1,71 +1,11 @@
-[17:24:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:24:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:24:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:24:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:24:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:24:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:24:09] [Worker-Main-12/INFO]: Loaded 7 recipes
-[17:24:10] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[17:24:10] [Worker-Main-12/INFO]: Loaded 1149 advancements
-[17:24:11] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[17:24:11] [Server thread/INFO]: Loading properties
-[17:24:11] [Server thread/INFO]: Default game type: SURVIVAL
-[17:24:11] [Server thread/INFO]: Generating keypair
-[17:24:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:24:12] [Server thread/INFO]: Using epoll channel type
-[17:24:12] [Server thread/INFO]: Preparing level "world"
-[17:24:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:24:13] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[17:24:13] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[17:24:13] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[17:24:13] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[17:24:14] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[17:24:14] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[17:24:15] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[17:24:15] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[17:24:16] [Worker-Main-22/INFO]: Preparing spawn area: 4%
-[17:24:16] [Worker-Main-16/INFO]: Preparing spawn area: 4%
-[17:24:17] [Worker-Main-16/INFO]: Preparing spawn area: 4%
-[17:24:17] [Worker-Main-19/INFO]: Preparing spawn area: 9%
-[17:24:18] [Worker-Main-20/INFO]: Preparing spawn area: 14%
-[17:24:18] [Worker-Main-18/INFO]: Preparing spawn area: 22%
-[17:24:19] [Worker-Main-22/INFO]: Preparing spawn area: 54%
-[17:24:19] [Worker-Main-12/INFO]: Preparing spawn area: 85%
-[17:24:20] [Server thread/INFO]: Time elapsed: 8394 ms
-[17:24:20] [Server thread/INFO]: Done (8.567s)! For help, type "help"
-[17:24:22] [Server thread/WARN]: UUID of added entity already exists: bkz['Armor Stand'/156, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[17:25:09] [User Authenticator #1/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[17:25:09] [Server thread/INFO]: k4i70[/127.0.0.1:57792] logged in with entity id 157 at (117.6283784741643, 64.0, 614.7625918319875)
-[17:25:09] [Server thread/INFO]: k4i70 joined the game
-[17:36:44] [User Authenticator #2/INFO]: UUID of player Keefii_ is e2033208-b464-4ca0-89c9-6cd515a6df3c
-[17:36:44] [Server thread/INFO]: Keefii_[/73.242.30.217:51998] logged in with entity id 4412 at (-551.8607849078497, 112.0, -51.708030338247745)
-[17:36:44] [Server thread/INFO]: Keefii_ joined the game
-[17:36:55] [Server thread/INFO]: <k4i70> hello there
-[17:36:57] [Server thread/INFO]: <Keefii_> howdy
-[17:37:33] [Server thread/INFO]: <k4i70> I'm not going to be on discord since I have to leave in like 10 mins
-[17:37:46] [Server thread/INFO]: <Keefii_> all good
-[17:39:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-542, y=108, z=-40} gj{x=-554, y=104, z=-37}
-[17:40:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-572, y=102, z=-37} gj{x=-571, y=102, z=-37}
-[17:40:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-572, y=102, z=-37} gj{x=-571, y=102, z=-37}
-[18:04:37] [Server thread/INFO]: Keefii_ lost connection: Disconnected
-[18:04:37] [Server thread/INFO]: Keefii_ left the game
-[18:23:10] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[18:23:10] [Server thread/INFO]: k4i70 left the game
-[21:21:06] [User Authenticator #3/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
-[21:21:06] [Server thread/INFO]: DJEggy10[/97.127.8.207:58249] logged in with entity id 19385 at (-315.6702802631936, 78.0, -92.49332965525744)
-[21:21:06] [Server thread/INFO]: DJEggy10 joined the game
-[21:31:10] [Server thread/INFO]: DJEggy10 has made the advancement [Cover Me with Diamonds]
-[22:11:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-30, y=85, z=217} gj{x=-31, y=83, z=217}
-[22:54:44] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
-[22:54:44] [Server thread/INFO]: DJEggy10 left the game
-[23:50:17] [Server thread/INFO]: Stopping the server
-[23:50:17] [Server thread/INFO]: Stopping server
-[23:50:17] [Server thread/INFO]: Saving players
-[23:50:17] [Server thread/INFO]: Saving worlds
-[23:50:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:50:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:50:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:50:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:50:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:50:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:50:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:40:46] [Server thread/INFO]: Stopping the server
+[00:40:46] [Server thread/INFO]: Stopping server
+[00:40:46] [Server thread/INFO]: Saving players
+[00:40:46] [Server thread/INFO]: Saving worlds
+[00:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
