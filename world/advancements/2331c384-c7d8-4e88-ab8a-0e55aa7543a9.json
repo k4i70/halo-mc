@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-05-26 20:22:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-05-03 22:30:25 -0500"
@@ -1343,6 +1349,7 @@
       "minecraft:deep_ocean": "2022-05-15 14:16:28 -0500",
       "minecraft:sunflower_plains": "2022-05-20 23:15:06 -0500",
       "minecraft:birch_forest": "2022-05-15 12:59:42 -0500",
+      "minecraft:badlands": "2022-05-26 20:25:51 -0500",
       "minecraft:beach": "2022-05-06 17:40:18 -0500",
       "minecraft:dark_forest": "2022-05-06 17:39:32 -0500",
       "minecraft:sparse_jungle": "2022-05-21 00:29:53 -0500",
@@ -1353,10 +1360,12 @@
       "minecraft:cold_ocean": "2022-05-03 22:55:44 -0500",
       "minecraft:forest": "2022-05-03 22:27:45 -0500",
       "minecraft:lush_caves": "2022-05-12 15:00:20 -0500",
+      "minecraft:desert": "2022-05-26 20:25:49 -0500",
       "minecraft:ocean": "2022-05-06 17:38:14 -0500",
       "minecraft:jungle": "2022-05-21 00:29:59 -0500",
       "minecraft:old_growth_spruce_taiga": "2022-05-11 13:37:09 -0500",
       "minecraft:windswept_savanna": "2022-05-22 14:56:32 -0500",
+      "minecraft:deep_lukewarm_ocean": "2022-05-26 20:25:13 -0500",
       "minecraft:flower_forest": "2022-05-22 14:51:41 -0500",
       "minecraft:old_growth_birch_forest": "2022-05-06 17:39:36 -0500",
       "minecraft:meadow": "2022-05-21 09:30:13 -0500",
