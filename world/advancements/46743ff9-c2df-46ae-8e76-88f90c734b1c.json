@@ -749,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-05-28 14:26:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2022-05-01 19:41:51 -0500"
@@ -2402,6 +2408,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-05-02 20:48:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-05-28 15:15:38 -0500"
     },
     "done": true
   },

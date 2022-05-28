@@ -1,18 +1,112 @@
-[00:05:51] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[00:05:51] [Server thread/INFO]: k4i70 left the game
-[00:05:53] [User Authenticator #7/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
-[00:05:53] [Server thread/INFO]: k4i70[/127.0.0.1:50852] logged in with entity id 77859 at (136.0433591296781, 65.0, 647.1255763636682)
-[00:05:53] [Server thread/INFO]: k4i70 joined the game
-[01:13:20] [Server thread/INFO]: k4i70 lost connection: Disconnected
-[01:13:20] [Server thread/INFO]: k4i70 left the game
-[01:13:26] [Server thread/INFO]: Stopping the server
-[01:13:26] [Server thread/INFO]: Stopping server
-[01:13:26] [Server thread/INFO]: Saving players
-[01:13:26] [Server thread/INFO]: Saving worlds
-[01:13:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:13:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:13:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:13:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:13:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:13:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:13:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:31:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:31:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:31:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:31:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:31:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:31:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:31:54] [Worker-Main-12/INFO]: Loaded 7 recipes
+[10:31:54] [Worker-Main-12/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[10:31:54] [Worker-Main-12/INFO]: Loaded 1149 advancements
+[10:31:56] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[10:31:56] [Server thread/INFO]: Loading properties
+[10:31:56] [Server thread/INFO]: Default game type: SURVIVAL
+[10:31:56] [Server thread/INFO]: Generating keypair
+[10:31:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:31:56] [Server thread/INFO]: Using epoll channel type
+[10:31:56] [Server thread/INFO]: Preparing level "world"
+[10:31:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:31:58] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[10:31:58] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[10:31:58] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[10:31:58] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[10:31:59] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[10:31:59] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[10:32:00] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[10:32:00] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[10:32:01] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[10:32:01] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[10:32:02] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[10:32:02] [Worker-Main-19/INFO]: Preparing spawn area: 8%
+[10:32:03] [Worker-Main-21/INFO]: Preparing spawn area: 14%
+[10:32:03] [Worker-Main-16/INFO]: Preparing spawn area: 14%
+[10:32:04] [Worker-Main-19/INFO]: Preparing spawn area: 15%
+[10:32:04] [Worker-Main-13/INFO]: Preparing spawn area: 24%
+[10:32:05] [Worker-Main-16/INFO]: Preparing spawn area: 36%
+[10:32:05] [Worker-Main-21/INFO]: Preparing spawn area: 48%
+[10:32:06] [Worker-Main-22/INFO]: Preparing spawn area: 56%
+[10:32:06] [Worker-Main-12/INFO]: Preparing spawn area: 69%
+[10:32:07] [Worker-Main-20/INFO]: Preparing spawn area: 82%
+[10:32:08] [Server thread/INFO]: Time elapsed: 11047 ms
+[10:32:08] [Server thread/INFO]: Done (11.265s)! For help, type "help"
+[10:32:11] [Server thread/WARN]: UUID of added entity already exists: bkz['Armor Stand'/33, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[10:32:40] [User Authenticator #1/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[10:32:40] [Server thread/INFO]: k4i70[/127.0.0.1:33410] logged in with entity id 34 at (139.5, 65.5625, 652.5)
+[10:32:40] [Server thread/INFO]: k4i70 joined the game
+[10:34:42] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[10:34:42] [Server thread/INFO]: k4i70 left the game
+[14:02:33] [User Authenticator #2/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[14:02:34] [Server thread/INFO]: DJEggy10[/97.127.8.207:58698] logged in with entity id 1715 at (-13.616608337576407, 71.875, 203.71457633732842)
+[14:02:34] [Server thread/INFO]: DJEggy10 joined the game
+[14:05:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:05:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=608, y=69, z=274} gj{x=608, y=69, z=275}
+[14:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=620, y=67, z=274} gj{x=620, y=66, z=275}
+[14:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=620, y=67, z=274} gj{x=620, y=66, z=275}
+[14:06:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=620, y=67, z=274} gj{x=620, y=66, z=275}
+[14:06:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=622, y=67, z=271} gj{x=621, y=66, z=272}
+[14:06:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=622, y=67, z=271} gj{x=621, y=66, z=272}
+[14:06:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=622, y=67, z=271} gj{x=621, y=66, z=272}
+[14:11:23] [User Authenticator #3/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[14:11:23] [Server thread/INFO]: k4i70[/127.0.0.1:37016] logged in with entity id 6234 at (142.19437233264838, 65.5625, 652.5525441928602)
+[14:11:23] [Server thread/INFO]: k4i70 joined the game
+[14:16:16] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[14:16:16] [Server thread/INFO]: DJEggy10 left the game
+[14:19:27] [User Authenticator #4/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[14:19:28] [Server thread/INFO]: DJEggy10[/97.127.8.207:59229] logged in with entity id 11519 at (-4.2385176498999675, 73.0, 186.30000001192093)
+[14:19:28] [Server thread/INFO]: DJEggy10 joined the game
+[14:25:39] [Server thread/INFO]: [DJEggy10: Set own game mode to Spectator Mode]
+[14:25:41] [Server thread/INFO]: [DJEggy10: Set own game mode to Survival Mode]
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:40:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=120, y=70, z=-621} gj{x=119, y=70, z=-622}
+[14:42:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=117, y=68, z=-624} gj{x=117, y=69, z=-622}
+[14:42:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=117, y=68, z=-624} gj{x=117, y=69, z=-622}
+[14:42:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=118, y=68, z=-623} gj{x=117, y=67, z=-623}
+[14:42:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=118, y=68, z=-622} gj{x=118, y=68, z=-621}
+[14:42:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=118, y=68, z=-622} gj{x=118, y=68, z=-621}
+[14:42:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=118, y=68, z=-622} gj{x=118, y=68, z=-621}
+[14:42:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=114, y=69, z=-618} gj{x=114, y=68, z=-619}
+[14:42:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=114, y=69, z=-618} gj{x=114, y=68, z=-619}
+[14:42:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=114, y=69, z=-618} gj{x=114, y=68, z=-619}
+[14:42:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=114, y=69, z=-618} gj{x=114, y=68, z=-619}
+[14:42:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=114, y=69, z=-618} gj{x=114, y=68, z=-619}
+[14:51:42] [Server thread/WARN]: k4i70 moved wrongly!
+[15:23:06] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[15:23:06] [Server thread/INFO]: k4i70 left the game
+[15:23:09] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[15:23:09] [Server thread/INFO]: DJEggy10 left the game
+[15:23:11] [Server thread/INFO]: Stopping the server
+[15:23:11] [Server thread/INFO]: Stopping server
+[15:23:11] [Server thread/INFO]: Saving players
+[15:23:11] [Server thread/INFO]: Saving worlds
+[15:23:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:23:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:23:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
