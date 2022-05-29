@@ -19,7 +19,7 @@ cd halo-mc
 1) open command prompt (type cmd into start menu)
 <pre>
 git clone https://github.com/k4i70/halo-mc
-dir halo-mc
+cd halo-mc
 java -Xmx1024M -Xms1024M -jar launcher.jar nogui
 git add .
 git commit -m "this commit"
