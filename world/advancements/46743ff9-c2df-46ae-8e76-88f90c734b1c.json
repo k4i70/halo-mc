@@ -635,6 +635,12 @@
     },
     "done": true
   },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-05-28 15:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2022-05-08 21:44:45 -0500"
@@ -1627,6 +1633,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2022-05-17 20:07:41 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2022-05-28 15:29:19 -0500"
     },
     "done": true
   },

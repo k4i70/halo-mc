@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-05-28 18:53:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2022-05-21 17:19:35 -0500"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2022-05-28 17:16:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2022-05-11 20:23:55 -0500"
@@ -452,6 +464,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-05-03 22:35:13 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-05-28 15:27:14 -0500"
     },
     "done": true
   },
@@ -703,6 +721,7 @@
       "minecraft:witch": "2022-05-11 12:16:40 -0500",
       "minecraft:wither_skeleton": "2022-05-18 23:21:28 -0500",
       "minecraft:shulker": "2022-05-19 15:53:58 -0500",
+      "minecraft:cave_spider": "2022-05-28 17:30:45 -0500",
       "minecraft:piglin": "2022-05-21 09:34:19 -0500",
       "minecraft:silverfish": "2022-05-15 14:31:21 -0500",
       "minecraft:enderman": "2022-05-15 14:45:29 -0500",
@@ -784,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-05-28 18:53:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-05-22 11:24:48 -0500"
@@ -829,6 +854,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-05-03 22:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-05-28 17:13:25 -0500"
     },
     "done": true
   },
@@ -895,6 +926,12 @@
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-05-22 11:24:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-05-28 17:09:36 -0500"
     },
     "done": true
   },
@@ -1120,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-05-28 18:52:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2022-05-20 15:40:33 -0500"
@@ -1195,6 +1238,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2022-05-08 19:02:35 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2022-05-28 15:27:14 -0500"
     },
     "done": true
   },
@@ -1350,6 +1399,7 @@
       "minecraft:frozen_river": "2022-05-28 14:40:19 -0500",
       "minecraft:sunflower_plains": "2022-05-20 23:15:06 -0500",
       "minecraft:birch_forest": "2022-05-15 12:59:42 -0500",
+      "minecraft:bamboo_jungle": "2022-05-28 18:53:10 -0500",
       "minecraft:badlands": "2022-05-26 20:25:51 -0500",
       "minecraft:beach": "2022-05-06 17:40:18 -0500",
       "minecraft:dark_forest": "2022-05-06 17:39:32 -0500",
@@ -1362,6 +1412,7 @@
       "minecraft:cold_ocean": "2022-05-03 22:55:44 -0500",
       "minecraft:forest": "2022-05-03 22:27:45 -0500",
       "minecraft:lush_caves": "2022-05-12 15:00:20 -0500",
+      "minecraft:deep_cold_ocean": "2022-05-28 18:55:54 -0500",
       "minecraft:frozen_ocean": "2022-05-28 14:43:08 -0500",
       "minecraft:desert": "2022-05-26 20:25:49 -0500",
       "minecraft:deep_frozen_ocean": "2022-05-28 14:43:14 -0500",
@@ -1573,6 +1624,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-05-03 22:35:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-05-28 18:53:15 -0500"
     },
     "done": true
   },
@@ -1832,6 +1889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2022-05-28 17:16:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-05-03 22:35:13 -0500"
@@ -2004,6 +2067,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-05-28 17:09:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-05-03 22:28:01 -0500"
@@ -2097,6 +2166,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-07 15:46:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2022-05-28 17:10:21 -0500"
     },
     "done": true
   },
@@ -2599,6 +2674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2022-05-28 17:10:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-07 23:28:07 -0500"
@@ -2749,6 +2830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-05-28 18:53:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-05-03 22:57:29 -0500"
@@ -2842,6 +2929,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2022-05-07 15:04:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2022-05-28 18:52:29 -0500"
     },
     "done": true
   },
@@ -3175,6 +3268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2022-05-28 17:13:25 -0500"
+    },
+    "done": true
+  },
   "vanillatweaks:multiplayer_sleep": {
     "criteria": {
       "tick": "2022-05-01 21:30:42 -0500"
@@ -3304,6 +3403,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-05-22 11:24:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-05-28 18:53:21 -0500"
     },
     "done": true
   },
