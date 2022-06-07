@@ -4353,6 +4353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2022-06-06 20:59:38 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2022-05-01 20:55:58 -0500"
