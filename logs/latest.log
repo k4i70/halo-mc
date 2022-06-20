@@ -1,11 +1,25 @@
-[00:31:13] [Server thread/INFO]: Stopping the server
-[00:31:13] [Server thread/INFO]: Stopping server
-[00:31:13] [Server thread/INFO]: Saving players
-[00:31:13] [Server thread/INFO]: Saving worlds
-[00:31:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:31:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:31:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:31:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:31:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:31:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:31:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:22:03] [User Authenticator #6/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[15:22:03] [Server thread/INFO]: DJEggy10[/97.127.10.195:58037] logged in with entity id 112763 at (-510.59569910541626, -58.0, -133.55139888612345)
+[15:22:03] [Server thread/INFO]: DJEggy10 joined the game
+[16:01:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=3, y=73, z=198} gt{x=3, y=74, z=198}
+[16:01:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=3, y=73, z=198} gt{x=3, y=74, z=198}
+[16:03:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=3, y=71, z=198} gt{x=0, y=82, z=195}
+[16:18:43] [Server thread/INFO]: DJEggy10 has made the advancement [Whatever Floats Your Goat!]
+[16:27:27] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[16:27:27] [Server thread/INFO]: DJEggy10 left the game
+[16:27:54] [User Authenticator #7/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[16:27:54] [Server thread/INFO]: DJEggy10[/97.127.10.195:56527] logged in with entity id 129997 at (-819.8938964993329, 177.0, 289.30000001192093)
+[16:27:54] [Server thread/INFO]: DJEggy10 joined the game
+[16:33:35] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[16:33:35] [Server thread/INFO]: DJEggy10 left the game
+[16:57:20] [Server thread/INFO]: Stopping the server
+[16:57:20] [Server thread/INFO]: Stopping server
+[16:57:20] [Server thread/INFO]: Saving players
+[16:57:20] [Server thread/INFO]: Saving worlds
+[16:57:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:57:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:57:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

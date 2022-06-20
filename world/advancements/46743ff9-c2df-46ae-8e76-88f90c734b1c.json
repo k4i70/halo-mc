@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-05-01 19:31:36 -0500"
@@ -296,6 +302,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2022-05-01 19:32:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2022-06-16 17:20:03 -0500"
     },
     "done": true
   },
@@ -527,6 +539,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-20 16:18:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2022-06-16 16:53:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-01 20:16:41 -0500"
@@ -542,6 +566,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2022-05-23 20:45:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2022-06-16 16:53:33 -0500"
     },
     "done": true
   },
@@ -695,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-20 16:18:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2022-05-01 19:54:07 -0500"
@@ -716,6 +752,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2022-05-10 22:28:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
     },
     "done": true
   },
@@ -893,9 +941,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-20 16:18:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2022-05-16 20:57:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2022-06-20 16:18:43 -0500"
     },
     "done": true
   },
@@ -963,6 +1023,7 @@
       "minecraft:piglin_brute": "2022-05-02 20:45:59 -0500",
       "minecraft:spider": "2022-05-02 22:00:52 -0500",
       "minecraft:creeper": "2022-05-01 21:02:58 -0500",
+      "minecraft:slime": "2022-06-16 17:01:03 -0500",
       "minecraft:phantom": "2022-05-24 21:51:13 -0500",
       "minecraft:zombified_piglin": "2022-05-03 20:59:58 -0500",
       "minecraft:witch": "2022-05-13 21:41:33 -0500",
@@ -1204,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-06-19 12:46:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2022-05-01 21:15:29 -0500"
@@ -1261,6 +1328,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2022-05-10 22:44:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
     },
     "done": true
   },
@@ -1384,6 +1457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-06-16 17:01:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2022-05-15 14:22:38 -0500"
@@ -1441,6 +1520,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-05-02 20:43:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-06-16 16:57:45 -0500"
     },
     "done": true
   },
@@ -1537,6 +1622,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-05-01 19:35:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-20 16:18:06 -0500"
     },
     "done": true
   },
@@ -1696,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2022-06-16 16:52:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-05-02 21:11:55 -0500"
@@ -1822,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-06-16 17:01:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-05-01 19:32:19 -0500"
@@ -1870,22 +1973,26 @@
       "minecraft:badlands": "2022-05-23 20:45:42 -0500",
       "minecraft:beach": "2022-05-03 21:26:17 -0500",
       "minecraft:dark_forest": "2022-05-01 20:26:52 -0500",
+      "minecraft:mangrove_swamp": "2022-06-16 16:52:07 -0500",
       "minecraft:sparse_jungle": "2022-05-23 20:45:26 -0500",
       "minecraft:river": "2022-05-01 20:25:16 -0500",
       "minecraft:lukewarm_ocean": "2022-05-23 20:45:00 -0500",
       "minecraft:stony_shore": "2022-05-01 19:32:20 -0500",
       "minecraft:grove": "2022-05-01 20:05:06 -0500",
+      "minecraft:swamp": "2022-06-16 16:58:20 -0500",
       "minecraft:cold_ocean": "2022-05-01 20:16:47 -0500",
       "minecraft:forest": "2022-05-01 19:51:33 -0500",
       "minecraft:lush_caves": "2022-05-01 20:13:00 -0500",
       "minecraft:deep_cold_ocean": "2022-05-23 20:49:26 -0500",
       "minecraft:desert": "2022-05-23 20:45:40 -0500",
+      "minecraft:windswept_forest": "2022-06-16 17:30:40 -0500",
       "minecraft:ocean": "2022-05-01 20:30:25 -0500",
       "minecraft:jungle": "2022-05-23 20:48:24 -0500",
       "minecraft:old_growth_spruce_taiga": "2022-05-01 21:14:59 -0500",
       "minecraft:windswept_savanna": "2022-05-23 21:38:39 -0500",
       "minecraft:deep_lukewarm_ocean": "2022-05-23 20:44:56 -0500",
       "minecraft:flower_forest": "2022-05-23 21:37:03 -0500",
+      "minecraft:frozen_peaks": "2022-06-20 16:16:50 -0500",
       "minecraft:old_growth_birch_forest": "2022-05-11 21:31:21 -0500",
       "minecraft:meadow": "2022-05-11 21:40:47 -0500",
       "minecraft:savanna": "2022-05-23 21:37:18 -0500",
@@ -2115,6 +2222,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2022-06-19 12:47:22 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2022-05-06 20:56:55 -0500"
@@ -2166,6 +2279,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2022-05-16 20:38:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-06-19 12:46:21 -0500"
     },
     "done": true
   },
@@ -2246,6 +2365,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-13 21:44:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
     },
     "done": true
   },
@@ -2591,6 +2716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2022-06-20 16:29:04 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-05-01 19:49:41 -0500"
@@ -2729,6 +2860,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2022-05-02 20:48:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-06-19 12:46:21 -0500"
     },
     "done": true
   },
@@ -2933,6 +3070,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:fox": "2022-05-08 21:40:35 -0500",
+      "minecraft:frog": "2022-06-16 17:07:31 -0500",
       "minecraft:cow": "2022-05-01 21:35:12 -0500"
     },
     "done": false
@@ -2952,6 +3090,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-05-01 20:55:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-20 16:18:06 -0500"
     },
     "done": true
   },
@@ -3309,6 +3453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-02 21:46:41 -0500"
@@ -3318,6 +3468,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-05-17 20:07:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-20 16:18:06 -0500"
     },
     "done": true
   },
@@ -3432,6 +3588,12 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2022-05-25 20:30:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
     },
     "done": true
   },
@@ -3699,6 +3861,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2022-06-16 18:57:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-05-01 19:35:20 -0500"
@@ -3771,6 +3939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2022-05-13 20:01:07 -0500"
@@ -3804,6 +3978,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-05-01 19:35:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-06-16 17:01:37 -0500"
     },
     "done": true
   },
@@ -3915,6 +4095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-20 16:18:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-05-01 19:35:19 -0500"
@@ -3933,6 +4119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-16 17:43:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-05-01 19:34:56 -0500"
@@ -3948,6 +4140,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2022-05-19 22:02:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-06-16 16:57:45 -0500"
     },
     "done": true
   },
@@ -4299,6 +4497,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2022-06-19 12:47:11 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2022-05-01 19:31:49 -0500"
@@ -4314,6 +4518,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-02 21:46:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2022-06-16 16:52:24 -0500"
     },
     "done": true
   },
