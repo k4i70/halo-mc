@@ -1625,6 +1625,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:temperate": "2022-06-24 17:49:31 -0500",
+      "minecraft:cold": "2022-06-24 17:24:20 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2022-06-20 16:18:06 -0500"
@@ -2835,7 +2842,8 @@
       "apple": "2022-05-01 21:17:11 -0500",
       "pumpkin_pie": "2022-05-01 21:17:06 -0500",
       "bread": "2022-05-01 19:36:14 -0500",
-      "rotten_flesh": "2022-05-02 20:59:54 -0500"
+      "rotten_flesh": "2022-05-02 20:59:54 -0500",
+      "cooked_chicken": "2022-06-24 17:43:00 -0500"
     },
     "done": false
   },

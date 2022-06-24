@@ -1,25 +1,64 @@
-[15:22:03] [User Authenticator #6/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
-[15:22:03] [Server thread/INFO]: DJEggy10[/97.127.10.195:58037] logged in with entity id 112763 at (-510.59569910541626, -58.0, -133.55139888612345)
-[15:22:03] [Server thread/INFO]: DJEggy10 joined the game
-[16:01:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=3, y=73, z=198} gt{x=3, y=74, z=198}
-[16:01:58] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=3, y=73, z=198} gt{x=3, y=74, z=198}
-[16:03:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=3, y=71, z=198} gt{x=0, y=82, z=195}
-[16:18:43] [Server thread/INFO]: DJEggy10 has made the advancement [Whatever Floats Your Goat!]
-[16:27:27] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
-[16:27:27] [Server thread/INFO]: DJEggy10 left the game
-[16:27:54] [User Authenticator #7/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
-[16:27:54] [Server thread/INFO]: DJEggy10[/97.127.10.195:56527] logged in with entity id 129997 at (-819.8938964993329, 177.0, 289.30000001192093)
-[16:27:54] [Server thread/INFO]: DJEggy10 joined the game
-[16:33:35] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
-[16:33:35] [Server thread/INFO]: DJEggy10 left the game
-[16:57:20] [Server thread/INFO]: Stopping the server
-[16:57:20] [Server thread/INFO]: Stopping server
-[16:57:20] [Server thread/INFO]: Saving players
-[16:57:20] [Server thread/INFO]: Saving worlds
-[16:57:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:57:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:57:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:57:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:04:24] [ServerMain/INFO]: Building unoptimized datafixer
+[17:04:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:04:28] [ServerMain/INFO]: Loaded 7 recipes
+[17:04:28] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[17:04:28] [ServerMain/INFO]: Loaded 1191 advancements
+[17:04:29] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[17:04:29] [Server thread/INFO]: Starting minecraft server version 1.19
+[17:04:29] [Server thread/INFO]: Loading properties
+[17:04:29] [Server thread/INFO]: Default game type: SURVIVAL
+[17:04:29] [Server thread/INFO]: Generating keypair
+[17:04:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:04:29] [Server thread/INFO]: Using default channel type
+[17:04:29] [Server thread/INFO]: Preparing level "world"
+[17:04:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:04:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:04:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:04:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:04:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:04:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:04:36] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[17:04:36] [Worker-Main-4/INFO]: Preparing spawn area: 54%
+[17:04:37] [Server thread/INFO]: Time elapsed: 7599 ms
+[17:04:37] [Server thread/INFO]: Done (7.863s)! For help, type "help"
+[17:04:40] [Server thread/WARN]: UUID of added entity already exists: bpo['Armor Stand'/38, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[17:04:40] [Server thread/WARN]: UUID of added entity already exists: bpo['Armor Stand'/39, l='ServerLevel[world]', x=16562064.50, y=1000.00, z=-22242911.50]
+[17:04:55] [User Authenticator #1/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[17:04:56] [Server thread/INFO]: DJEggy10[/127.0.0.1:53865] logged in with entity id 50 at (-820.0705788545059, 176.0, 295.69999998807907)
+[17:04:56] [Server thread/INFO]: DJEggy10 joined the game
+[17:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6968ms or 139 ticks behind
+[17:39:01] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[17:39:01] [Server thread/INFO]: DJEggy10 left the game
+[17:41:12] [User Authenticator #2/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[17:41:12] [Server thread/INFO]: DJEggy10[/127.0.0.1:54117] logged in with entity id 8447 at (-343.57341705638134, 62.229365399304704, 242.01631325024022)
+[17:41:12] [Server thread/INFO]: DJEggy10 joined the game
+[17:41:15] [Server thread/INFO]: [DJEggy10: Set own game mode to Spectator Mode]
+[17:41:16] [Server thread/INFO]: [DJEggy10: Set own game mode to Survival Mode]
+[17:41:19] [Server thread/INFO]: [DJEggy10: Set own game mode to Spectator Mode]
+[17:41:43] [Server thread/INFO]: [DJEggy10: Set own game mode to Survival Mode]
+[17:46:08] [Server thread/WARN]: DJEggy10 moved wrongly!
+[17:47:54] [Server thread/INFO]: [DJEggy10: Set own game mode to Spectator Mode]
+[17:47:58] [Server thread/INFO]: [DJEggy10: Set own game mode to Survival Mode]
+[18:19:28] [Server thread/INFO]: Villager bss['Villager'/26306, l='ServerLevel[world]', x=-16.50, y=72.00, z=182.21] died, message: 'Villager was slain by Zombie'
+[18:25:45] [Server thread/INFO]: [DJEggy10: Gave 3 [Paper] to DJEggy10]
+[18:31:41] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[18:31:41] [Server thread/INFO]: DJEggy10 left the game
+[18:31:49] [Server thread/INFO]: Stopping the server
+[18:31:49] [Server thread/INFO]: Stopping server
+[18:31:49] [Server thread/INFO]: Saving players
+[18:31:49] [Server thread/INFO]: Saving worlds
+[18:31:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:31:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:31:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
