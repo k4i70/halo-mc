@@ -1,2 +1,36 @@
-[14:24:22] [ServerMain/INFO]: Building unoptimized datafixer
-[14:24:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:19:00] [ServerMain/INFO]: Building unoptimized datafixer
+[17:19:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:19:02] [ServerMain/INFO]: Loaded 7 recipes
+[17:19:02] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[17:19:02] [ServerMain/INFO]: Loaded 1191 advancements
+[17:19:02] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[17:19:02] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[17:19:02] [Server thread/INFO]: Loading properties
+[17:19:02] [Server thread/INFO]: Default game type: SURVIVAL
+[17:19:02] [Server thread/INFO]: Generating keypair
+[17:19:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:19:02] [Server thread/INFO]: Using epoll channel type
+[17:19:02] [Server thread/INFO]: Preparing level "world"
+[17:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:19:05] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:19:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:19:05] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:19:05] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[17:19:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:19:06] [Worker-Main-7/INFO]: Preparing spawn area: 15%
+[17:19:06] [Server thread/INFO]: Time elapsed: 3500 ms
+[17:19:06] [Server thread/INFO]: Done (3.649s)! For help, type "help"
+[17:19:07] [Server thread/WARN]: UUID of added entity already exists: bql['Armor Stand'/34, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[17:19:07] [Server thread/WARN]: UUID of added entity already exists: bql['Armor Stand'/39, l='ServerLevel[world]', x=16562064.50, y=1000.00, z=-22242911.50]
+[17:19:11] [Server thread/INFO]: Stopping the server
+[17:19:11] [Server thread/INFO]: Stopping server
+[17:19:11] [Server thread/INFO]: Saving players
+[17:19:11] [Server thread/INFO]: Saving worlds
+[17:19:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:19:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:19:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:19:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:19:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:19:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:19:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
