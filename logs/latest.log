@@ -1,13 +1,19 @@
-[00:38:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:38:13] [Server thread/INFO]: [C<--[HERE]
-[00:38:15] [Server thread/INFO]: Stopping the server
-[00:38:15] [Server thread/INFO]: Stopping server
-[00:38:15] [Server thread/INFO]: Saving players
-[00:38:15] [Server thread/INFO]: Saving worlds
-[00:38:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:38:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:38:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:38:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:38:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:38:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:38:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:58:09] [Server thread/INFO]: You whisper to DJEggy10: should I restart the server?
+[00:59:04] [User Authenticator #5/INFO]: UUID of player k4i70 is 2331c384-c7d8-4e88-ab8a-0e55aa7543a9
+[00:59:04] [Server thread/INFO]: k4i70[/127.0.0.1:55628] logged in with entity id 1173402 at (33.004361606619206, 64.0, 569.9543926968304)
+[00:59:04] [Server thread/INFO]: k4i70 joined the game
+[00:59:33] [Server thread/INFO]: k4i70 lost connection: Disconnected
+[00:59:33] [Server thread/INFO]: k4i70 left the game
+[01:04:12] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[01:04:12] [Server thread/INFO]: DJEggy10 left the game
+[01:05:49] [Server thread/INFO]: Stopping the server
+[01:05:49] [Server thread/INFO]: Stopping server
+[01:05:49] [Server thread/INFO]: Saving players
+[01:05:49] [Server thread/INFO]: Saving worlds
+[01:05:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:05:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:05:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:05:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

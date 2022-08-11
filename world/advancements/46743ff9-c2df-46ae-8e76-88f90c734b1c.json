@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-08-10 20:49:16 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-05-01 19:32:19 -0500"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2022-08-10 20:44:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-05-01 21:21:57 -0500"
@@ -548,6 +560,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2022-05-01 19:44:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2022-08-10 20:49:16 -0500"
     },
     "done": true
   },
@@ -1106,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2022-08-10 20:44:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-05-01 19:32:56 -0500"
@@ -1430,6 +1454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2022-08-10 20:44:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2022-05-20 22:51:50 -0500"
@@ -1519,6 +1549,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-05-11 20:52:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-10 17:18:56 -0500"
     },
     "done": true
   },
@@ -1897,6 +1933,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-05-01 19:35:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2022-08-10 20:51:18 -0500"
     },
     "done": true
   },
@@ -2602,6 +2644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-10 17:18:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2022-05-10 22:28:43 -0500"
@@ -2842,6 +2890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2022-08-10 20:51:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2022-05-17 20:30:00 -0500"
@@ -2887,6 +2941,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2022-05-15 14:30:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-08-10 20:49:16 -0500"
     },
     "done": true
   },
@@ -3343,6 +3403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-10 17:18:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2022-05-27 21:00:33 -0500"
@@ -3436,6 +3502,12 @@
   "minecraft:adventure/spyglass_at_dragon": {
     "criteria": {
       "spyglass_at_dragon": "2022-05-15 14:51:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-08-10 20:49:16 -0500"
     },
     "done": true
   },
@@ -3661,6 +3733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2022-08-10 20:51:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2022-06-20 16:29:04 -0500"
@@ -3791,6 +3869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-10 17:18:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2022-05-01 20:54:49 -0500"
@@ -3836,6 +3920,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-05-01 21:24:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper": "2022-08-10 20:51:18 -0500"
     },
     "done": true
   },
@@ -4121,6 +4211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-10 17:18:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-05-01 21:06:31 -0500"
@@ -4214,6 +4310,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2022-05-17 20:30:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2022-08-10 20:49:16 -0500"
     },
     "done": true
   },
@@ -4433,6 +4535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-10 17:18:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2022-05-01 19:34:39 -0500"
@@ -4502,6 +4610,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-05-01 19:49:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper": {
+    "criteria": {
+      "has_exposed_copper": "2022-08-10 20:51:18 -0500"
     },
     "done": true
   },
