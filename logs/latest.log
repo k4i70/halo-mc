@@ -1,24 +1,42 @@
-[14:40:20] [ServerMain/INFO]: Building unoptimized datafixer
-[14:40:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:40:22] [ServerMain/INFO]: Loaded 7 recipes
-[14:40:22] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[14:40:22] [ServerMain/INFO]: Loaded 1191 advancements
-[14:40:22] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[14:40:22] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[14:40:22] [Server thread/INFO]: Loading properties
-[14:40:22] [Server thread/INFO]: Default game type: SURVIVAL
-[14:40:22] [Server thread/INFO]: Generating keypair
-[14:40:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:40:22] [Server thread/INFO]: Using epoll channel type
-[14:40:22] [Server thread/INFO]: Preparing level "world"
-[14:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:40:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:40:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[14:40:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[14:40:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:40:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:40:25] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[14:40:26] [Server thread/INFO]: Time elapsed: 3022 ms
-[14:40:26] [Server thread/INFO]: Done (3.137s)! For help, type "help"
-[14:40:26] [Server thread/WARN]: UUID of added entity already exists: bql['Armor Stand'/41, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[14:40:27] [Server thread/WARN]: UUID of added entity already exists: bql['Armor Stand'/46, l='ServerLevel[world]', x=16562064.50, y=1000.00, z=-22242911.50]
+[14:41:24] [ServerMain/INFO]: Building unoptimized datafixer
+[14:41:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:41:25] [ServerMain/INFO]: Loaded 7 recipes
+[14:41:25] [ServerMain/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[14:41:26] [ServerMain/INFO]: Loaded 1191 advancements
+[14:41:26] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[14:41:26] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[14:41:26] [Server thread/INFO]: Loading properties
+[14:41:26] [Server thread/INFO]: Default game type: SURVIVAL
+[14:41:26] [Server thread/INFO]: Generating keypair
+[14:41:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:41:26] [Server thread/INFO]: Using epoll channel type
+[14:41:26] [Server thread/INFO]: Preparing level "world"
+[14:41:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:41:29] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:41:29] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:41:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:41:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:41:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:41:29] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[14:41:29] [Server thread/INFO]: Time elapsed: 3107 ms
+[14:41:29] [Server thread/INFO]: Done (3.245s)! For help, type "help"
+[14:41:30] [Server thread/WARN]: UUID of added entity already exists: bql['Armor Stand'/45, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[14:41:30] [Server thread/WARN]: UUID of added entity already exists: bql['Armor Stand'/46, l='ServerLevel[world]', x=16562064.50, y=1000.00, z=-22242911.50]
+[14:46:14] [User Authenticator #1/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[14:46:14] [Server thread/INFO]: DJEggy10[/97.127.1.195:57766] logged in with entity id 57 at (19.236195008230553, 61.0, -13.002085460832774)
+[14:46:14] [Server thread/INFO]: DJEggy10 joined the game
+[15:38:32] [Server thread/INFO]: DJEggy10 lost connection: Disconnected
+[15:38:32] [Server thread/INFO]: DJEggy10 left the game
+[15:38:32] [Server thread/WARN]: handleDisconnection() called twice
+[15:42:24] [User Authenticator #2/INFO]: UUID of player DJEggy10 is 46743ff9-c2df-46ae-8e76-88f90c734b1c
+[15:42:25] [Server thread/INFO]: DJEggy10[/97.127.1.195:50117] logged in with entity id 8596 at (-27.40059816462177, 71.0, 222.32622889092366)
+[15:42:25] [Server thread/INFO]: DJEggy10 joined the game
+[19:00:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-17, y=70, z=218} gt{x=-35, y=70, z=232}
+[19:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=77, y=65, z=275} gt{x=78, y=63, z=276}
+[19:24:52] [Server thread/INFO]: [DJEggy10: Gave 128 [Oxidized Copper] to DJEggy10]
+[19:29:12] [Server thread/INFO]: [Not Secure] [Server] hey I see that
+[19:29:27] [Server thread/INFO]: <DJEggy10> dude ive been grinding copper for thrree fucking days
+[19:29:39] [Server thread/INFO]: [Not Secure] [Server] yeah I know I'm just kidding
+[19:29:54] [Server thread/INFO]: [Not Secure] [Server] it's basically jsut me and you playing so it doesn't really matter at this point
+[19:31:02] [Server thread/INFO]: [Not Secure] [Server] also i'm leaving now so I hope the server holds up
+[19:31:51] [Server thread/INFO]: [DJEggy10: Gave 128 [Oxidized Copper] to DJEggy10]
